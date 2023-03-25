@@ -1,6 +1,10 @@
 @import "https://fawni.github.io/addons/DiscordFont.css";
 @import "https://snappercord.github.io/Settings-Icons/source.css";
 @import "https://nyri4.github.io/Discolored/main.css";
+
+.guilds-2JjMmN {
+  background-color: #343746;
+}
 .theme-dark,
 :root {
   --dracula-primary: #282a36;
